@@ -1,4 +1,4 @@
-# Interface
+# EXPERIMENT 9 Interface
 
 ## Aim:
 To Develop a small bank application by declaring deposit() and withdrawal() as abstract methods in the interface. Get the choice from the user whether to perform withdrawal or deposit operation. After the operation completes, display the balance amount.
